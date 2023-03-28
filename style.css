@@ -1,0 +1,115 @@
+.so{
+background-color:  rgb(114, 113, 113); 
+}
+.o1{
+    font-size: 175px; color: white; margin-left: 200px;
+}
+.o2{
+    color: blue;
+font-size: 30px; margin-left: 200px;
+}
+.o3{
+    margin-left: 200px;
+    text-align: justify; width: 600px;
+}
+.o4{color: blue;
+}
+.sa{
+    display: flex;
+}
+.i1{
+    margin-left: 400px;
+}
+.o5{
+    margin-left: 300px;
+    text-align: justify; width:400px ;
+}
+.o4{
+    margin-left: 300px;
+}
+.sb{
+    display: flex;
+}
+.o6{
+    color: blue; margin-left:500px ;
+}
+.o7{
+    text-align: justify; width: 400px; margin-left:500px;
+
+}
+.i2{
+    margin-left: 250px;
+}
+.sc{
+    display: flex;
+}
+.d1{
+    background-color: rgb(247, 247, 247);width: 800px;
+    height: 600px;
+}
+.d2{
+    background-color: blue;width: 200px; height: 250px;
+}
+.s9{
+    text-align: justify; width: 500px;
+}
+.d3{margin-bottom: 500;}
+.sd{
+    display: flex;
+}
+.o12{
+    margin-left:  250px;
+}
+.s014{
+    margin-left:  250px;
+}
+.o15{
+    text-align: justify; width: 400px;
+    margin-left: 200px;
+}
+
+.o13{
+    background-color: blue ;width:200px; height: 100px;
+    margin-left:  500px;
+color: aliceblue;
+}
+.o16{
+    margin-left: 500px
+    ;}
+    .o17{
+        margin-right: 600px;
+    }
+    .o18{
+        display: flex;
+        margin-left: 400px;
+    }
+.o11{
+    width: 250px;
+}
+.o19{ 
+    background-color:  rgb(177, 175, 175);  
+    display: flex;
+    border-radius: 250px;
+   color: blue;
+}
+.o20{
+    display:flex ;
+margin-left: 500px;}
+.o21{
+    display: flex
+    ;}
+.o21 img{
+    border-radius: 50%;
+}
+.o23{
+text-align: justify; width: 500px;
+margin-right: 250px;position: relative;bottom: 200px;
+}
+.o26{
+    text-align: justify; width: 500px;
+margin-left: 250px;
+}
+.o23{
+    margin-left:250px
+ }
+.o30{text-align: justify;margin-left: 250;} 
